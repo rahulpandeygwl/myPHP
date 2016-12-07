@@ -24,6 +24,6 @@ class AdminController extends \BaseController {
 //			echo $users[$i] . "<br>";
 //		}
 //
-//		return "All the emails above have been sent a beta invite.";
+//urn "All the emails above have been sent a beta invite.";
 	}
 }
